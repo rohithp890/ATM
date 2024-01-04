@@ -55,28 +55,6 @@ Create your FOUR-DIGIT PIN CODE
 Enter your initial amount
 1000
 Account created successfully.
-
-ARE YOU AN EMPLOYEE(E) OR CUSTOMER(C)
-C
-
-1. CASH WITHDRAWAL
-2. CASH DEPOSIT
-3. BALANCE ENQUIRY
-4. EXIT
-
-Enter your choice
-1
-
-Enter the account number
-1234567890
-Enter the PIN
-1234
-Welcome to the ATM
-
-Enter the amount to be withdrawn
-500
-Transaction completed
-Thank you for using this ATM
 ```
 - **Withdrawing Cash (Customer)**
 
